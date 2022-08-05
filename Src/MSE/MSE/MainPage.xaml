@@ -31,9 +31,9 @@
                                     <Span
                                         FontAttributes="Bold"
                                         FontSize="Large"
-                                        Text="Welcome"
+                                        Text="Welcome "
                                         TextColor="#FF2ED833" />
-                                    <Span Text="customer" TextColor="LightGray" />
+                                    <!--<Span Text="customer" TextColor="LightGray" />-->
                                 </FormattedString>
                             </Label.FormattedText>
                         </Label>
@@ -50,7 +50,7 @@
                                     <FormattedString>
                                         <Span
                                             FontAttributes="Bold"
-                                            Text="MSE"
+                                            Text="MSE "
                                             TextColor="LightGray" />
                                         <Span
                                             FontAttributes="Bold"
