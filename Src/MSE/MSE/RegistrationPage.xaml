@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MSE.RegistrationPage"
+             Title="RegistrationPage">
+    <StackLayout BackgroundColor="White" VerticalOptions="FillAndExpand">
+        <StackLayout x:Name="stkRegistration">
+            <Frame
+                Margin="10"
+                BackgroundColor="White"
+                CornerRadius="10"
+                HeightRequest="300"
+                TranslationY="40">
+                <StackLayout Orientation="Horizontal">
+
+
+                    <StackLayout>
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span
+                                        FontAttributes="Bold"
+                                        FontSize="Large"
+                                        Text="Register"
+                                        TextColor="#FF2ED833" />
+                                    <!--<Span Text="customer" TextColor="LightGray" />-->
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                            <Label>
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span
+                                            FontAttributes="Bold"
+                                            Text="put the reg form here"
+                                            TextColor="LightGray" />
+                                        <Span
+                                            FontAttributes="Bold"
+                                            FontSize="Body"
+                                            Text="Product and Services"
+                                            TextColor="Black" />
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
