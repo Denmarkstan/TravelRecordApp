@@ -6,5 +6,7 @@ Merchant Self Enrollment(MSE):The MSE is a mobile app built using .Net MAUI. The
 
 3. Admin Login page: Admin Review of prospective merchant request then Approves or reject with reason
 
- ![mse_welcome](https://user-images.githubusercontent.com/12526269/183010748-88307c01-8b40-4204-a0ef-d49a735b5166.png)
+ ![n1](https://user-images.githubusercontent.com/12526269/183249556-aea7dfeb-34ea-4b17-8541-1a5716541b50.png)
+
+![n2](https://user-images.githubusercontent.com/12526269/183249558-9b0e677e-2fd4-4236-a651-a3817c6d4dbc.png)
 
