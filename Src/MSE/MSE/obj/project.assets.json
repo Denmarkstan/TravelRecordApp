@@ -195,6 +195,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -2136,6 +2162,32 @@
         "runtime": {
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -4083,6 +4135,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -6024,6 +6102,32 @@
         "runtime": {
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -7971,6 +8075,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -9912,6 +10042,32 @@
         "runtime": {
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -11859,6 +12015,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -13803,6 +13985,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -15725,6 +15933,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -15938,6 +16172,32 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -16157,6 +16417,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -16370,6 +16656,32 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -16589,6 +16901,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -16802,6 +17140,32 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -17021,6 +17385,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -17234,6 +17624,32 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -17453,6 +17869,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -17666,6 +18108,32 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -17885,6 +18353,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18098,6 +18592,32 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -18317,6 +18837,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18530,6 +19076,32 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -18749,6 +19321,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18962,6 +19560,32 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll": {
+            "related": ".xml"
           }
         }
       },
@@ -19314,6 +19938,32 @@
           }
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -19625,6 +20275,32 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
         }
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
@@ -19940,6 +20616,32 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -20251,6 +20953,32 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
         }
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
@@ -20566,6 +21294,32 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -20879,6 +21633,32 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -21190,6 +21970,32 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
         }
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
@@ -21509,6 +22315,32 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.Maui.Core/20.2.40": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Dependencies": "6.0.100-rc.1.1608",
+          "Syncfusion.Licensing": "20.2.0.40"
+        },
+        "compile": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
+            "related": ".deps.json;.xml"
+          }
         }
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
@@ -22621,6 +23453,64 @@
         "tools/net5.0/zh-TW/Microsoft.Build.Msix.resources.dll",
         "tools/x64/GenXbf.dll",
         "tools/x86/GenXbf.dll"
+      ]
+    },
+    "Syncfusion.Licensing/20.2.0.40": {
+      "sha512": "+JLKLk0xCvAVGsb/O1ocJiiEmYwIxn2cpmGf5pNZoZCW4c1GwTNANnoSQZXkcbNz/9FvtQZ/1Fhh7qbjgZuZeQ==",
+      "type": "package",
+      "path": "syncfusion.licensing/20.2.0.40",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/MonoAndroid10.0/Syncfusion.Licensing.dll",
+        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net20/Syncfusion.Licensing.dll",
+        "lib/net35/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net451/Syncfusion.Licensing.dll",
+        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/net5.0/Syncfusion.Licensing.dll",
+        "lib/net6.0/Syncfusion.Licensing.dll",
+        "lib/netcoreapp3.1/Syncfusion.Licensing.dll",
+        "lib/netstandard1.0/Syncfusion.Licensing.dll",
+        "lib/netstandard1.2/Syncfusion.Licensing.dll",
+        "lib/netstandard1.4/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.20.2.0.40.nupkg.sha512",
+        "syncfusion.licensing.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Maui.Core/20.2.40": {
+      "sha512": "n5cYowFjhzGpOFKkau7fHt8V4rTQQdciG0L9P8lT8ekLJK4ofhFG5lfar3shK8ttD+mamt7M9e/IUdIDDALWTQ==",
+      "type": "package",
+      "path": "syncfusion.maui.core/20.2.40",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net6.0-android30.0/Syncfusion.Maui.Core.dll",
+        "lib/net6.0-android30.0/Syncfusion.Maui.Core.xml",
+        "lib/net6.0-ios13.6/Syncfusion.Maui.Core.dll",
+        "lib/net6.0-ios13.6/Syncfusion.Maui.Core.xml",
+        "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.dll",
+        "lib/net6.0-maccatalyst13.5/Syncfusion.Maui.Core.xml",
+        "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.deps.json",
+        "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll",
+        "lib/net6.0-windows10.0.19041.0/Syncfusion.Maui.Core.xml",
+        "lib/net6.0/Syncfusion.Maui.Core.deps.json",
+        "lib/net6.0/Syncfusion.Maui.Core.dll",
+        "lib/net6.0/Syncfusion.Maui.Core.xml",
+        "syncfusion.maui.core.20.2.40.nupkg.sha512",
+        "syncfusion.maui.core.nuspec",
+        "syncfusion_logo.png"
       ]
     },
     "System.Diagnostics.DiagnosticSource/6.0.0": {
@@ -24548,22 +25438,26 @@
   "projectFileDependencyGroups": {
     "net6.0-android31.0": [
       "Microsoft.Maui.Dependencies >= 6.0.408",
-      "Microsoft.Maui.Extensions >= 6.0.408"
+      "Microsoft.Maui.Extensions >= 6.0.408",
+      "Syncfusion.Maui.Core >= 20.2.40"
     ],
     "net6.0-ios15.4": [
       "Microsoft.Maui.Dependencies >= 6.0.408",
       "Microsoft.Maui.Extensions >= 6.0.408",
+      "Syncfusion.Maui.Core >= 20.2.40",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-maccatalyst15.4": [
       "Microsoft.Maui.Dependencies >= 6.0.408",
       "Microsoft.Maui.Extensions >= 6.0.408",
+      "Syncfusion.Maui.Core >= 20.2.40",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-windows10.0.19041": [
       "Microsoft.Maui.Dependencies >= 6.0.408",
       "Microsoft.Maui.Extensions >= 6.0.408",
-      "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194"
+      "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194",
+      "Syncfusion.Maui.Core >= 20.2.40"
     ]
   },
   "packageFolders": {
@@ -24639,6 +25533,10 @@
             "target": "Package",
             "version": "[6.0.408, )",
             "autoReferenced": true
+          },
+          "Syncfusion.Maui.Core": {
+            "target": "Package",
+            "version": "[20.2.40, )"
           }
         },
         "imports": [
@@ -24698,6 +25596,10 @@
             "version": "[6.0.408, )",
             "autoReferenced": true
           },
+          "Syncfusion.Maui.Core": {
+            "target": "Package",
+            "version": "[20.2.40, )"
+          },
           "System.Runtime.InteropServices.NFloat.Internal": {
             "target": "Package",
             "version": "[6.0.1, )",
@@ -24746,6 +25648,10 @@
             "target": "Package",
             "version": "[6.0.408, )",
             "autoReferenced": true
+          },
+          "Syncfusion.Maui.Core": {
+            "target": "Package",
+            "version": "[20.2.40, )"
           },
           "System.Runtime.InteropServices.NFloat.Internal": {
             "target": "Package",
@@ -24802,6 +25708,10 @@
             "target": "Package",
             "version": "[10.0.22000.194, )",
             "autoReferenced": true
+          },
+          "Syncfusion.Maui.Core": {
+            "target": "Package",
+            "version": "[20.2.40, )"
           }
         },
         "imports": [

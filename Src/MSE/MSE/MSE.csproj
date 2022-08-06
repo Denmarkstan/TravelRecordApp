@@ -49,6 +49,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <PackageReference Include="Syncfusion.Maui.Core" Version="20.2.40" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <MauiXaml Update="RegistrationPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

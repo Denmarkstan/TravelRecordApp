@@ -953,3 +953,11 @@ C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\an
 C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\assets\System.Private.CoreLib.dll
 C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\assets\System.Private.Uri.dll
 C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\assets\System.Xml.dll
+C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\assets\Syncfusion.Licensing.dll
+C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\assets\Syncfusion.Maui.Core.dll
+C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\src\crc640360c8a960a6805b\StaticTextLayout.java
+C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\src\crc6479d6f9e48582dc67\GestureDetector_ScaleListener.java
+C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\src\crc6479d6f9e48582dc67\GestureDetector_ScrollListener.java
+C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\src\crc6481e5b28a6b4dd87a\NativeCustomScrolLayout.java
+C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\src\crc6481e5b28a6b4dd87a\NativeSnapLayout.java
+C:\Projects\Mobl\MerchantSelf_Enrollment\Src\MSE\MSE\obj\Debug\net6.0-android\android\src\crc6486af4e8104107bae\LayoutViewGroupExt.java

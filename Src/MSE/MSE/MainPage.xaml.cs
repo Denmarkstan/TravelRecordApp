@@ -11,8 +11,6 @@ public partial class MainPage : ContentPage
     //https://github.com/Amaro96/MbongoUIApp    current
     private async void OnGetStartedClicked(object sender, EventArgs e)
 	{
-        //stkWelcome.IsVisible=false;
-        //      stkRegistration.IsVisible = true;
         await Navigation.PushAsync(new RegistrationPage());
     }
 }

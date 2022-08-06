@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h/OeJhcn+gX0T4gTF6p4tAY6MWu9yd9ziM+c51Kcl1Izg8ohb9C5NhMRjbQaPsiDFXgAQlul3Ane+AWw9Joi8Q==",
+  "dgSpecHash": "zgGxNlNb20jJxTAynzqV5zNMBg+lzSl2fbcDoHV65zYghE/5d9RRY8aBnjMK5txHe5P86euzCQP/mkzoHkdV3Q==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Mobl\\MerchantSelf_Enrollment\\Src\\MSE\\MSE\\MSE.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,8 @@
     "C:\\Users\\NEDUM\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\6.0.403\\microsoft.maui.graphics.win2d.winui.desktop.6.0.403.nupkg.sha512",
     "C:\\Users\\NEDUM\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
     "C:\\Users\\NEDUM\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.1\\microsoft.windowsappsdk.1.1.1.nupkg.sha512",
+    "C:\\Users\\NEDUM\\.nuget\\packages\\syncfusion.licensing\\20.2.0.40\\syncfusion.licensing.20.2.0.40.nupkg.sha512",
+    "C:\\Users\\NEDUM\\.nuget\\packages\\syncfusion.maui.core\\20.2.40\\syncfusion.maui.core.20.2.40.nupkg.sha512",
     "C:\\Users\\NEDUM\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\NEDUM\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\NEDUM\\.nuget\\packages\\system.runtime.interopservices.nfloat.internal\\6.0.1\\system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",

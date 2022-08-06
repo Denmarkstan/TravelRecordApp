@@ -2,52 +2,46 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MSE.RegistrationPage"
-             Title="RegistrationPage">
-    <StackLayout BackgroundColor="White" VerticalOptions="FillAndExpand">
-        <StackLayout x:Name="stkRegistration">
-            <Frame
-                Margin="10"
-                BackgroundColor="White"
-                CornerRadius="10"
-                HeightRequest="300"
-                TranslationY="40">
-                <StackLayout Orientation="Horizontal">
+             Title="Registration">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0" />
+            <ColumnDefinition  Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <StackLayout Grid.Row="2" Grid.Column="2" Margin="90">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Register" 
+                    FontSize="25" HorizontalTextAlignment="Center" HorizontalOptions="StartAndExpand" 
+                       TextColor="Green" FontAttributes="Bold"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Entry 
+               Placeholder="Enter Bvn"  MaxLength="30"
+               VerticalOptions="CenterAndExpand"  FontSize="20" FontAttributes="Bold" Margin="4"
+                    PlaceholderColor="#CCC"   TextColor="#555"/>
 
+                <Entry  MaxLength="30"
+               Placeholder="Enter Merchant No."
+               VerticalOptions="CenterAndExpand" FontSize="20" FontAttributes="Bold" Margin="4"
+                         PlaceholderColor="#CCC"   TextColor="#555"/>
+            </StackLayout>
+            <StackLayout x:Name="stkShowIndicator" IsVisible="false">
+                <ActivityIndicator IsRunning="true"
+                   Color="ForestGreen" />
+                <Label Text="Getting details..." HorizontalOptions="Center" TextColor="DimGray"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="btnGetStarted" Text="Submit"  
+                        FontSize="20" Clicked="OnRegisterClicked" 
+                         HorizontalOptions="StartAndExpand" BackgroundColor="ForestGreen"
+                        MinimumWidthRequest="200"  FontAttributes="Bold">
+                </Button>
 
-                    <StackLayout>
-                        <Label>
-                            <Label.FormattedText>
-                                <FormattedString>
-                                    <Span
-                                        FontAttributes="Bold"
-                                        FontSize="Large"
-                                        Text="Register"
-                                        TextColor="#FF2ED833" />
-                                    <!--<Span Text="customer" TextColor="LightGray" />-->
-                                </FormattedString>
-                            </Label.FormattedText>
-                        </Label>
-
-                        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Horizontal">
-                            <Label>
-                                <Label.FormattedText>
-                                    <FormattedString>
-                                        <Span
-                                            FontAttributes="Bold"
-                                            Text="put the reg form here"
-                                            TextColor="LightGray" />
-                                        <Span
-                                            FontAttributes="Bold"
-                                            FontSize="Body"
-                                            Text="Product and Services"
-                                            TextColor="Black" />
-                                    </FormattedString>
-                                </Label.FormattedText>
-                            </Label>
-                        </StackLayout>
-                    </StackLayout>
-                </StackLayout>
-            </Frame>
+            </StackLayout>
         </StackLayout>
-    </StackLayout>
+    </Grid>
 </ContentPage>
